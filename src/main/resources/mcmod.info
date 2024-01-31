@@ -5,11 +5,11 @@
   "description": "Hypixel farming methods in ohyo :smile:",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
-  "updateUrl": "",
+  "url": "https://guns.lol/shinn",
+  "updateUrl": "https://github.com/Wayzonline/Hackixel-Testimonials/tree/master",
   "authorList": ["Wayzdev"],
-  "credits": "The Forge and FML guys, for making this example",
-  "logoFile": "",
+  "credits": "Forge & FML team",
+  "logoFile": "./logo.png",
   "screenshots": [],
   "dependencies": []
 }
